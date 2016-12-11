@@ -1,0 +1,42 @@
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\bin\Debug\BackupSkateShop.exe.config
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\bin\Debug\BackupSkateShop.exe
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\bin\Debug\BackupSkateShop.pdb
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.csprojResolveAssemblyReference.cache
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.Form1.resources
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.Properties.Resources.resources
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.csproj.GenerateResource.Cache
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.exe
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.pdb
+c:\users\xarito\documents\visual studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmAdministrador.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProducto.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProductoMantenimiento.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmUsuario.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProveedores.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmCliente.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmUsuarioMantenimiento.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmVentas.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProveedoresMantenimiento.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmClienteMantenimiento.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmEmpresa.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmLoad.resources
+C:\Users\Xarito\Documents\Visual Studio 2012\Projects\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmLoading.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\bin\Debug\BackupSkateShop.exe.config
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.exe
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.pdb
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.csprojResolveAssemblyReference.cache
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.Form1.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.Properties.Resources.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmAdministrador.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmCliente.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmClienteMantenimiento.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmEmpresa.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmLoad.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmLoading.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProducto.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProductoMantenimiento.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProveedores.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmProveedoresMantenimiento.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmUsuario.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmUsuarioMantenimiento.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.UIWindows.frmVentas.resources
+C:\Users\charito\Documents\SALVAR 2016\CURSOS LIBRES - LIBROS\BackupSkateShop\BackupSkateShop\obj\Debug\BackupSkateShop.csproj.GenerateResource.Cache
